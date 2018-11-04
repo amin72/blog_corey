@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Post 1",
+        "content": "This is Post 1 in my Blog!",
+        "user_id": 1
+    },
+    {
+        "title": "Post 2",
+        "content": "This is Post 2 in my Blog!",
+        "user_id": 3
+    },
+    {
+        "title": "Post 3",
+        "content": "This is Post 3 in my Blog!",
+        "user_id": 1
+    },
+    {
+        "title": "Post 4",
+        "content": "This is Post 4 in my Blog!",
+        "user_id": 1
+    },
+    {
+        "title": "Post 5",
+        "content": "This is Post 5 in my Blog!",
+        "user_id": 1
+    },
+    {
+        "title": "Post 6",
+        "content": "This is Post 6 in my Blog!",
+        "user_id": 1
+    },
+    {
+        "title": "Post 7",
+        "content": "This is Post 7 in my Blog!",
+        "user_id": 3
+    }
+]
